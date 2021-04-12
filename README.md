@@ -6,6 +6,9 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=4sskick)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=4sskick)
+
+
 <!--
 **4sskick/4sskick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
