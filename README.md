@@ -1,8 +1,9 @@
 ### Hi there 👋
+I'm tian! a Fullstack (mobile & backend) developer. Currently specialize on front-end mobile development also a self-taugh backend developer.
 
-![Profile views](https://gpvc.arturio.dev/4sskick)  
 
-![GitHub metrics](https://metrics.lecoq.io/4sskick) 
+- 🌱 I’m currently learning Kotlin (native mobile) & hybrid mobile development (Flutter & React Native)
+- 📫 How to reach me: ![linked in](https://www.linkedin.com/in/septian-wijaya/)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=4sskick)
 
