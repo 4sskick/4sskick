@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm tian! a Fullstack (mobile & backend) developer. Currently specialize on front-end mobile development also a self-taugh backend developer.
+tian! Software Engineer. Currently specialize on front-end mobile also a backend.
 
 
-- 🌱 I’m currently learning Kotlin, hybrid mobile development (Flutter & React Native) & little bit explore on backend tech stack
+- 🌱 Currently learning Kotlin, hybrid platform development (Kotlin Hybrid platform, Flutter & React Native) & exploring on backend tech stack (NestJS, ASP)
 - 📫 How to reach me: ![linked in](https://www.linkedin.com/in/septian-wijaya/)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=4sskick)
