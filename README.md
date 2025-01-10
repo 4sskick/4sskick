@@ -2,9 +2,11 @@
 tian! Software Engineer - Fullstack.
 
 
-- 🌱 Currently learning **mobile hybrid platform development** (Kotlin Mobile Platform, Flutter & React Native) & exploring on backend tech stack
+- 🌱 Currently learning **mobile hybrid platform development** & exploring on backend tech stack
 
-- 👯 Looking to collaborate on backend stuff
+- 👯 Looking to collaborate on backend stuff or paid internship
+
+- 👜 Keen on '**remote**' collaboration
   
 - ⚡ Fun fact '**dipanggil nengok**'
 
