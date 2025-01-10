@@ -23,7 +23,9 @@ tian! Software Engineer - Fullstack.
 -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4sskick" alt="stefanwerfling" /></a> </p>
 
+<!--
 ![Metrics](https://metrics.lecoq.io/4sskick?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&people=1&achievements=1&lines=1&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FBerlin)
+-->
 
 <!--
 **4sskick/4sskick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
